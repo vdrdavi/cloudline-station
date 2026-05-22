@@ -14,7 +14,7 @@ O jogo desafia o jogador através de um loop de jogabilidade dividido em duas á
 
 ---
 
-## 🛠️ Destaques Técnicos & Implementações Autorais
+## 🛠️ Destaques Técnicos & Implementações
 
 O diferencial deste projeto é a ausência de bibliotecas prontas da Unity para as mecânicas principais, priorizando a lógica pura em C#:
 
