@@ -19,7 +19,7 @@ O jogo desafia o jogador através de um loop de jogabilidade dividido em duas á
 O diferencial deste projeto é a ausência de bibliotecas prontas da Unity para as mecânicas principais, priorizando a lógica pura em C#:
 
 ### 1. Pathfinding A* (Busca Heurística)
-Implementação do algoritmo **A* (A-Star)** sobre uma matriz de nós bidimensional dinâmica para a movimentação *point-and-click* do personagem no estoque.
+Implementação do algoritmo **A*** sobre uma matriz de nós bidimensional dinâmica para a movimentação *point-and-click* do personagem no estoque.
 *   **Heurística Utilizada:** Distância de Manhattan.
 *   **Dinâmica de Grid:** Itens comprados alteram a propriedade `isWalkable` dos nós em tempo real com base em seu tamanho físico ($1\times1$, $2\times2$, etc.), forçando o algoritmo a recalcular novas rotas dinamicamente para desviar dos obstáculos.
 
