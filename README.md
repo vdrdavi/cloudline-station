@@ -8,7 +8,7 @@
 
 Você assume o balcão da *Cloudline Station*, um posto de trocas isolado e suspenso acima de um mar de nuvens densas. Com uma dívida massiva com a Máfia das Nuvens, seu objetivo é sobreviver por 3 dias comprando e revendendo relíquias trazidas por viajantes excêntricos. 
 
-O jogo desafia o jogador através de um loop de jogabilidade dividido em duas telas:
+O jogo desafia o jogador através de um loop de jogabilidade dividido em duas áreas:
 1. **O Balcão (Frente):** Onde ocorrem as negociações através de árvores de diálogos complexas e ramificadas.
 2. **O Estoque (Fundos):** Um quebra-cabeça de espaço físico onde cada item comprado se torna um obstáculo físico na matriz do cenário, exigindo organização lógica para não travar seus caminhos.
 
